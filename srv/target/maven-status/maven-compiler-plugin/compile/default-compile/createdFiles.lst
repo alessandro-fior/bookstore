@@ -1,0 +1,8 @@
+cds/gen/my/bookshop/Bookshop_.class
+cds/gen/catalogservice/CatalogService_.class
+cds/gen/my/bookshop/Books.class
+cds/gen/catalogservice/Books_.class
+cds/gen/my/bookshop/Books_.class
+customer/bookstore/Application.class
+cds/gen/catalogservice/Books.class
+customer/bookstore/handlers/CatalogServiceHandler.class
